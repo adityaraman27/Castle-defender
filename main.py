@@ -26,6 +26,6 @@ while run:
 
 pygame.quit()           
 
-kkkkk
+
 
 
